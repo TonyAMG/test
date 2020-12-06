@@ -1,0 +1,12 @@
+{
+    "name": "anton/mvc_project",
+    "description": "The example of MVC pattern",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tony",
+            "email": "anton.semionov1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+}

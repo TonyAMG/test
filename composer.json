@@ -1,7 +1,7 @@
 {
     "name": "anton/mvc_project",
     "description": "The example of MVC pattern",
-    "type": "project",
+    "type": "wordpress-theme",
     "authors": [
         {
             "name": "Tony",
